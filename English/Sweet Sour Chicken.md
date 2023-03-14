@@ -1,7 +1,7 @@
-# Az Tatli Eksi Soslu Tavuk
+# Sweet Sour Chicken
 ## Ingredients
 - Chicken fillet `1 kg, preferably smaller in size, half the size of regular fillets is good`
-- Sumac `1-1.5 tablespoon, add more if you want it to be more sour`
+- Sumac `1-1.5 tablespoon, add more if you want it to be more sour` (If you cant find sumac use similar sour spices but be careful when using them in their volume)
 - Red pepper flakes `1 tablespoon`
 - Cumin `2-3 teaspoons`
 - Sweet paprika `1 tablespoon`
