@@ -2,7 +2,7 @@
 
 ## Malzemeler
 
-- 1 kg Tavuk Kuşbaşı (tavuk göğsünden) - `Tercihen daha küçük boyutlarda olmalı, normal fileto boyutunun yarısı güzeldir.`
+- 1 kg Tavuk Kuşbaşı (tavuk göğsünden)
 - Tavuk veya et baharatı (detaylarını sonra belirteceğiz) - `Eğer yoksa biraz tuz, tatlı toz biber ve acı toz biber kullanabilirsiniz.`
 - Heinz sarımsaklı kırmızı biber sosu - `Yarım şişe yeterli olacaktır, görsel olarak da elde edilebilir.`
 - 1-2 yemek kaşığı pul biber - `Acılık tercihe bağlı olarak ayarlanabilir.`
