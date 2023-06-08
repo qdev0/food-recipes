@@ -10,7 +10,9 @@
 - zeytinyag `Hazirlanis ve pisirmede detaylica miktar var`
 
 ## Hazirlanisi
-- once tavuklari kup/kusbasi seklinde dograyin sonra tavuk/et baharatini ve 1-2 yemek kasigi zeytinyag koyun ve tavuku iyice karistirin isterseniz yarim saat marine edebilirsiniz ama gerek yok
+- once tavuklari kup/kusbasi seklinde dograyin sonra `tavuk/et baharatini` ve `1-2 yemek kasigi zeytinyag` koyun ve tavuku iyice karistirin. 
+- isterseniz yarim saat marine edebilirsiniz ama gerek yok.
+
 ## Pisirme Teknigi
 
 `tava`ya 1 yemek kasigi` zeytinyag` atin isitmaya baslamadan tavuklari atin sonrasinda 3 4 dakika boyunca yuksek ateste karistirin. Sonrasinda orta atese alin suyunu salinca `heinz sarimsakli aci biber` sosunu, `pul biber` ve `sarimsagi` atin.
