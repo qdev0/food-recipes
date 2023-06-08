@@ -1,4 +1,4 @@
-# Aci Tatli Sarimsakli Tavuk
+# Aci Tatli Sarimsakli Soslu Tavuk
 
 ## Malzemeler
 
@@ -15,7 +15,7 @@
 
 ## Pisirme Teknigi
 
-`tava`ya 1 yemek kasigi` zeytinyag` atin isitmaya baslamadan tavuklari atin sonrasinda 3 4 dakika boyunca yuksek ateste karistirin. Sonrasinda orta atese alin suyunu salinca `heinz sarimsakli aci biber` sosunu, `pul biber` ve `sarimsagi` atin.
-buradan sonra suyunun 70-80% civarinda cektikten sonra altini kapatip 2-3 dakika bekleyin ve hazir.
+`tava`ya `1 yemek kasigi zeytinyag` atin isitmaya baslamadan tavuklari atin sonrasinda 3 4 dakika boyunca yuksek ateste karistirin. Sonrasinda orta atese alin suyunu salinca `heinz sarimsakli aci biber` sosunu, `pul biber` ve `sarimsagi` atin.
+buradan sonra suyunun `70-80%` civarinda cektikten sonra altini kapatip 2-3 dakika bekleyin ve hazir.
 
 Onemli not: `Yag fazla atmayin tamamen yemegin verdigi hissi degistiriyor.`
