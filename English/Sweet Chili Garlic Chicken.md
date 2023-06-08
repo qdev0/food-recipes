@@ -21,3 +21,5 @@
 - Once the sauce has reduced by around 70-80%, turn off the heat, let it rest for 2-3 minutes, and it's ready.
 
 `Important note: Avoid using excessive oil as it can alter the overall taste of the dish.`
+
+![9585688576050](https://github.com/quanton-dev/food-recipes/assets/15233139/8267ace6-9e9f-4a92-bd75-ff609ca9c0c5)
